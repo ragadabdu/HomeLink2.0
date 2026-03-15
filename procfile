@@ -1,1 +1,1 @@
-web: gunicorn homelink.wsgi
+web: gunicorn homelink2.0.wsgi
